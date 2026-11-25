@@ -19,7 +19,7 @@ window.CONFIG = {
   googleRating: "4.9",
   googleReviews: 19,
   followers: "8.6K",
-  agency: "Your Studio"
+  agency: "MAYUR"
 };
 
 window.CATEGORIES = {

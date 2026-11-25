@@ -11,7 +11,7 @@ A static sample site for JMPYR The Jewelries Empire (Madhav Nagar, Katni), made 
 ## Change the details in one place
 Open `assets/js/data.js` and edit `CONFIG`:
 - `whatsapp`: their number with country code, digits only (e.g. `919876543210`). While it's empty, WhatsApp opens with the message already typed and the visitor picks the chat.
-- `agency`: your studio name, shown in the concept note and the footer.
+- `agency`: your name, shown in the footer credit (the WhatsApp and Instagram links are in the footer of each page).
 - `hours`, `address`: store details.
 
 Products and prices are in `PRODUCTS` in the same file. Product photos are in `assets/img/products/`, named by product slug.
